@@ -1,4 +1,4 @@
-# generador-crucigramas
+# web-generador-crucigramas
 
 ## 📌 Descripción
 Este proyecto forma parte de mi portafolio personal.  
